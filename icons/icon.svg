@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">My Ride Money car and coin icon</title>
+  <rect width="512" height="512" rx="112" fill="#0b1b2e"/>
+  <path d="M118 310h276l-26-84c-8-25-31-42-57-42H201c-26 0-49 17-57 42l-26 84Z" fill="#5eb1e6" stroke="#08111d" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M96 310h320v74c0 16-13 28-28 28H124c-16 0-28-12-28-28v-74Z" fill="#f2f5f9" stroke="#08111d" stroke-width="14" stroke-linejoin="round"/>
+  <circle cx="159" cy="389" r="35" fill="#08111d"/>
+  <circle cx="353" cy="389" r="35" fill="#08111d"/>
+  <path d="M154 278h204" fill="none" stroke="#08111d" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="376" cy="158" r="82" fill="#d9a441" stroke="#08111d" stroke-width="14"/>
+  <path d="M390 125c-10-10-35-12-46-2-15 13-4 30 17 33 23 4 36 14 31 32-6 21-39 25-59 9m29-97v116" fill="none" stroke="#08111d" stroke-width="15" stroke-linecap="round"/>
+</svg>
